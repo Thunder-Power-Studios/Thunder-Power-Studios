@@ -1,2 +1,2 @@
-# Thunder-Power-Studios-Readme
-Coputer Languages
+# Thunder-Power-Studios
+Coputer Languages:HTML,CSS,JavaScript
