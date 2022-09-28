@@ -3,6 +3,7 @@ Computer Languages
 * HTML 
 * CSS
 * JavaScript
+* Markdown
 
 Websites
 * Thunder Power Studios Website
@@ -11,7 +12,10 @@ Games
 * Button Clicker
 
 Contact Us
-*
+* Website: https://thunder-power-studios.github.io/Thunder-Power-Studios/
+* Twitter:@T_P_Studios
+* Instagram:thunderpowerstudios
+* Youtube:https://www.youtube.com/channel/UCE1Tq-buQQEwxbB_ismYbhA/featured
 
 
 
