@@ -7,6 +7,7 @@ Computer Languages
 
 Websites
 * Thunder Power Studios Website
+* Hire Devs
 
 Games
 * Button Clicker
