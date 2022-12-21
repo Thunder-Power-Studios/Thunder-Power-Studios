@@ -19,7 +19,7 @@ Contact Us
 * Instagram:thunderpowerstudios
 * Youtube:https://www.youtube.com/channel/UCE1Tq-buQQEwxbB_ismYbhA/featured
 
-
+Please donate to support us! https://gofund.me/26130864
 
 WANT TO CALLAB WITH OTHER PROGRAMMERS
 
