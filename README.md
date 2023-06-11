@@ -7,8 +7,8 @@ Computer Languages
 
 Websites
 * Thunder Power Studios Website
-* Hire Devs
 * Holiday Countdown
+* Jack Karver(Personal Website for avatar Entropia Universe)
 
 Games
 * Button Clicker
@@ -21,6 +21,8 @@ Contact Us
 
 Please donate to support us! https://www.buymeacoffee.com/T.P.S
 
-WANT TO CALLAB WITH OTHER PROGRAMMERS
+WANT TO CALLAB WITH OTHER PROGRAMMERS AND TECH COMPANIES
 
-Please contact us if you find a bug in one of our sites or games.
+Please contact us if you find a bug in one of our sites or games
+
+Contact us through the link on our website.
