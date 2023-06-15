@@ -10,9 +10,6 @@ Websites
 * Holiday Countdown
 * Jack Karver(Personal Website for avatar Entropia Universe)
 
-Games
-* Button Clicker
-
 Contact Us
 * Website:https://thunder-power-studios.github.io/Thunder-Power-Studios-Official/
 * Twitter:@T_P_Studios
